@@ -1,3 +1,6 @@
-library(SOD1web)
+# app.R
 
-SOD1web::run_app()
+library(shiny)
+library(SOD1main)
+
+run_app()
