@@ -4,4 +4,4 @@ Version: 0.1.0
 Imports:
   shiny,
   SOD1main
-
+Config/roxygen2/version: 8.0.0
