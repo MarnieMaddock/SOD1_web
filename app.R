@@ -1,3 +1,3 @@
-library(SOD1_web)
+library(SOD1web)
 
-SOD1_web::run_app()
+SOD1web::run_app()
